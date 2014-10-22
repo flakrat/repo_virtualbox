@@ -1,0 +1,51 @@
+{
+  "author": "Mike Hanby",
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": "\u003e\u003d 2.0.0"
+    }
+  ],
+  "license": "Apache License, Version 2.0",
+  "name": "flakrat-repo_virtualbox",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "OracleLinux",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "Scientific",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    }
+  ],
+  "project_page": "https://github.com/flakrat/repo_virtualbox",
+  "requirements": [],
+  "source": "https://github.com/flakrat/repo_virtualbox.git",
+  "summary": "Configures the virtualbox Yum repository config to optinally point to a local mirror on Enterprise Linux (RHEL, CentOS) clients",
+  "tags": [],
+  "version": "1.0.0"
+}
